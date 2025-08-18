@@ -22,6 +22,8 @@ advance SQL,
 Power BI, 
 Statistics, 
 advance Excel
+---------
+🧠 ## Programming Languages & Concepts
 
 *  🔭 I’m **currently** working on ...
 * 🌱 I’m currently learning ...
