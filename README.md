@@ -1,39 +1,27 @@
 ## Hi there 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sachin365123&label=Profile%20views&color=0e75b6&style=flat)
-
-**sachin365123/sachin365123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 **---**
-Here are some ideas to get you started:
----
+**---**
 
 ## Skills: 
-* PySpark, 
-* Generative AI, 
-* NLP, Databricks, 
-Data Engineering, 
-ETL, 
-Azure Data Factory, 
-Artificial Intelligence, 
-Machine Learning, 
-Python, 
-Deep Learning, 
-Computer Vision, 
-advance SQL, 
-Power BI, 
-Statistics, 
-advance Excel
+* PySpark 
+* Generative AI 
+* NLP
+* Databricks
+* Data Engineering, 
+ 
 ---------
 ## 🧠 Programming Languages & Concepts
 
-*  🔭 I’m **currently** working on ...
-* 🌱 I’m currently learning ...
-*  👯 I’m looking to collaborate on ...
-*  🤔 I’m looking for help with ...
-*  💬 Ask me about ...
+*  🔭 I’m **currently** working on ... ETL, Azure Data Factory, Artificial Intelligence
+* 🌱 I’m currently learning ... MLOps, Azure Foundry, Azure DevOps
+*  👯 I’m looking to collaborate on ... Machine Learning, Python, Deep Learning, Computer Vision
+*  🤔 I’m looking for help with ... advance SQL, Power BI, Statistics, advance Excel
+*  💬 Ask me about ... 
 *  📫 How to reach me: ...
-*  😄 Pronouns: ...
-*  ⚡ Fun fact: ...
+*  😄 Pronouns: Dr Sachin Saxena
+*  ⚡ Fun fact: ... "Bahut hi boring insaan hu, un logo ko jaldi chor deta hu, jo apne career ko lekar sincere nahi hai, ya idhar udhar jyada dhyaan rehta hai...."
 
 ---
 
