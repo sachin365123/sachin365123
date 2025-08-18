@@ -1,4 +1,4 @@
-## Hi I'm Dr Sachin Saxena 👋
+## Hi I'm Dr Sachin Saxena, a dedicated Azure Databricks developer with a deep passion for data science. My career has been shaped by a commitment to mastering data visualization, analysis, and machine learning techniques, enabling me to create designs that are both aesthetically pleasing and insightful.  👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sachin365123&label=Profile%20views&color=0e75b6&style=flat)
 **---**
