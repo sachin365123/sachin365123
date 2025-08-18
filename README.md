@@ -5,23 +5,19 @@
 **---**
 
 ## Skills: 
-* PySpark 
-* Generative AI 
-* NLP
-* Databricks
-* Data Engineering, 
+* Databricks, Data Engineering, PySpark, Generative AI, NLP
  
 ---------
 ## 🧠 Programming Languages & Concepts
 
-*  🔭 I’m **currently** working on ... ETL, Azure Data Factory, Artificial Intelligence
+*  🔭 I’m currently working on ... ETL, Azure Data Factory, Artificial Intelligence
 * 🌱 I’m currently learning ... MLOps, Azure Foundry, Azure DevOps
 *  👯 I’m looking to collaborate on ... Machine Learning, Python, Deep Learning, Computer Vision
 *  🤔 I’m looking for help with ... advance SQL, Power BI, Statistics, advance Excel
-*  💬 Ask me about ... 
+*  💬 Ask me about ... _Padai, Padai aur bas Padai_
 *  📫 How to reach me: ...
 *  😄 Pronouns: Dr Sachin Saxena
-*  ⚡ Fun fact: ... "Bahut hi boring insaan hu, un logo ko jaldi chor deta hu, jo apne career ko lekar sincere nahi hai, ya idhar udhar jyada dhyaan rehta hai...."
+*  ⚡ Fun fact: ... _Bahut hi boring insaan hu, un logo ko jaldi chor deta hu, jo apne career ko lekar sincere nahi hai, ya idhar udhar jyada dhyaan rehta hai...._
 
 ---
 
