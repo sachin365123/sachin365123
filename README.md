@@ -25,12 +25,13 @@
 
 | 🔗 Project Name | Description | Tech Stack |
 |----------------|-------------|------------|
+| [☁️ Azure Data Engineering Hands-on project with Unity Catalog, Delta Lake, Medallion Architecture](https://sachinsaxena.graphy.com/s/store) | End-to-end ETL from Weather API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
 | [🤖 Yolov8 for custom dataset ASL Sign Language](https://www.youtube.com/watch?v=FU1nqyhklM8) | Built 2 NLP tools that match resumes with job descriptions using TF-IDF and cosine similarity. Bhagwat-themed UI, filters, and skill extraction. | Python, Streamlit, TF-IDF, SpaCy, Azure Databricks |
 | [🏅 Training YOLOv7 on a Custom Dataset](https://www.youtube.com/watch?v=TllhcjF4vOA) | Ingested, cleaned & aggregated Olympic data using ADF & PySpark in Delta Lake format | ADF, Azure DevOps, Databricks, PySpark, Delta |
 | [🚖 Implementation of seven Deep Learning Algorithms on biomedical images Dataset](https://github.com/sachin365123/SevenDeepLearningAlgorithms) | Real-time Azure pipeline with Event Hub → Stream Analytics → Databricks → Delta Lake External Tables | Event Hub, Stream Analytics, Key Vault, Databricks, Delta |
 | [📊 AdventureWorks DW](https://github.com/bishwajitSingh123/Adventure-Works-Data-Engineering-Project) | Applied Data Warehousing concepts on AdventureWorks dataset | SQL Server, SSMS, ETL |
-| [☁️ Azure ETL Pipeline](https://github.com/bishwajitSingh123/azure-etl-weather-pipeline) | End-to-end ETL from Weather API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
-| [🗂️ Kidney Tumor Segmentation using YOLOv5 in Pytorch | Stone Segmentation](https://www.youtube.com/watch?v=3pHm6MTIB-U) | Web app with CRUD, auth, forms using Django | Django, Python, SQLite |
+| [☁️ Azure ETL Pipeline](https://github.com/sachin365123/Azure-Databricks-Mastery-Hands-on-project-with-Unity-Catalog-Delta-lake-Medallion-Architecture) | End-to-end ETL from Weather API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
+| [🗂️ Kidney Tumor Segmentation using YOLOv5 in Pytorch, Stone Segmentation ](https://www.youtube.com/watch?v=3pHm6MTIB-U) | Web app with CRUD, auth, forms using Django | Django, Python, SQLite |
 
 ## 📈 GitHub Stats
 
