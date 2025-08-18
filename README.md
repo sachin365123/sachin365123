@@ -1,8 +1,6 @@
 ## Hi I'm Dr Sachin Saxena, a dedicated Azure Databricks developer with a deep passion for data science. 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sachin365123&label=Profile%20views&color=0e75b6&style=flat)
-**---**
-**---**
 
 ## Skills: 
 * Databricks, Data Engineering, PySpark, Generative AI, NLP
