@@ -5,6 +5,24 @@
 **---**
 Here are some ideas to get you started:
 ---
+
+## Skills: 
+* PySpark, 
+* Generative AI, 
+* NLP, Databricks, 
+Data Engineering, 
+ETL, 
+Azure Data Factory, 
+Artificial Intelligence, 
+Machine Learning, 
+Python, 
+Deep Learning, 
+Computer Vision, 
+advance SQL, 
+Power BI, 
+Statistics, 
+advance Excel
+
  🔭 I’m **currently** working on ...
  🌱 I’m currently learning ...
  👯 I’m looking to collaborate on ...
