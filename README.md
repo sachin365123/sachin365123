@@ -36,5 +36,16 @@ advance Excel
 
 ---
 
+## 💼 Featured Projects
+
+| 🔗 Project Name | Description | Tech Stack |
+|----------------|-------------|------------|
+| [🤖 AI Resume Matcher Suite](https://github.com/bishwajitSingh123/resume-ai-shortlister) | Built 2 NLP tools that match resumes with job descriptions using TF-IDF and cosine similarity. Bhagwat-themed UI, filters, and skill extraction. | Python, Streamlit, TF-IDF, SpaCy, Azure Databricks |
+| [🏅 Olympics Data Lakehouse](https://github.com/bishwajitSingh123/olympic-data-pipeline) | Ingested, cleaned & aggregated Olympic data using ADF & PySpark in Delta Lake format | ADF, Azure DevOps, Databricks, PySpark, Delta |
+| [🚖 NYC Yellow Taxi Pipeline](https://github.com/bishwajitSingh123/nyc-yellow-taxi-pipeline) | Real-time Azure pipeline with Event Hub → Stream Analytics → Databricks → Delta Lake External Tables | Event Hub, Stream Analytics, Key Vault, Databricks, Delta |
+| [📊 AdventureWorks DW](https://github.com/bishwajitSingh123/Adventure-Works-Data-Engineering-Project) | Applied Data Warehousing concepts on AdventureWorks dataset | SQL Server, SSMS, ETL |
+| [☁️ Azure ETL Pipeline](https://github.com/bishwajitSingh123/azure-etl-weather-pipeline) | End-to-end ETL from Weather API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
+| [🗂️ Requirement Drive Portal](https://github.com/bishwajitSingh123/requirement-drive-portal) | Web app with CRUD, auth, forms using Django | Django, Python, SQLite |
+
 ### Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/sachin-saxena-graphic-designer/)
