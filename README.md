@@ -35,3 +35,6 @@ advance Excel
 *  ⚡ Fun fact: ...
 
 ---
+
+### Connect with me: 
+[LinkedIn](https://www.linkedin.com/in/sachin-saxena-graphic-designer/)
