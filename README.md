@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Dr Sachin Saxena 👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sachin365123&label=Profile%20views&color=0e75b6&style=flat)
 **---**
@@ -29,7 +29,7 @@
 | [🤖 Yolov8 for custom dataset ASL Sign Language](https://www.youtube.com/watch?v=FU1nqyhklM8) | Built 2 NLP tools that match resumes with job descriptions using TF-IDF and cosine similarity. Bhagwat-themed UI, filters, and skill extraction. | Python, Streamlit, TF-IDF, SpaCy, Azure Databricks |
 | [🏅 Training YOLOv7 on a Custom Dataset](https://www.youtube.com/watch?v=TllhcjF4vOA) | Ingested, cleaned & aggregated Olympic data using ADF & PySpark in Delta Lake format | ADF, Azure DevOps, Databricks, PySpark, Delta |
 | [🚖 Implementation of seven Deep Learning Algorithms on biomedical images Dataset](https://github.com/sachin365123/SevenDeepLearningAlgorithms) | Real-time Azure pipeline with Event Hub → Stream Analytics → Databricks → Delta Lake External Tables | Event Hub, Stream Analytics, Key Vault, Databricks, Delta |
-| [📊 AdventureWorks DW](https://github.com/bishwajitSingh123/Adventure-Works-Data-Engineering-Project) | Applied Data Warehousing concepts on AdventureWorks dataset | SQL Server, SSMS, ETL |
+| [📊 Databricks Certified Machine Learning Engineer](https://sachinsaxena.graphy.com/courses/Databricks-Certified-Machine-Learning-Engineer-Registration-6857eebed35744174b664de1) | Applied Data Warehousing concepts on AdventureWorks dataset | SQL Server, SSMS, ETL |
 | [☁️ Azure ETL Pipeline](https://github.com/sachin365123/Azure-Databricks-Mastery-Hands-on-project-with-Unity-Catalog-Delta-lake-Medallion-Architecture) | End-to-end ETL from Weather API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
 | [🗂️ Kidney Tumor Segmentation using YOLOv5 in Pytorch, Stone Segmentation ](https://www.youtube.com/watch?v=3pHm6MTIB-U) | Web app with CRUD, auth, forms using Django | Django, Python, SQLite |
 
@@ -40,3 +40,5 @@
 
 ### Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/sachin-saxena-graphic-designer/)
+[Job Assistance WhatsApp Group](https://chat.whatsapp.com/CrFEmndkTJ2LLzuhxDu054)
+
