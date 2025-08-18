@@ -37,6 +37,6 @@
 
 
 ### Connect with me: 
-[LinkedIn](https://www.linkedin.com/in/sachin-saxena-graphic-designer/)
-[Job Assistance WhatsApp Group](https://chat.whatsapp.com/CrFEmndkTJ2LLzuhxDu054)
+* 📊 [LinkedIn](https://www.linkedin.com/in/sachin-saxena-graphic-designer/)
+* 💬 [Job Assistance WhatsApp Group](https://chat.whatsapp.com/CrFEmndkTJ2LLzuhxDu054)
 
