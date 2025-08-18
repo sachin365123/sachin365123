@@ -47,5 +47,10 @@ advance Excel
 | [☁️ Azure ETL Pipeline](https://github.com/bishwajitSingh123/azure-etl-weather-pipeline) | End-to-end ETL from Weather API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
 | [🗂️ Requirement Drive Portal](https://github.com/bishwajitSingh123/requirement-drive-portal) | Web app with CRUD, auth, forms using Django | Django, Python, SQLite |
 
+## 📈 GitHub Stats
+
+![Dr Sachin Saxena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin365123&show_icons=true&theme=radical)
+
+
 ### Connect with me: 
 [LinkedIn](https://www.linkedin.com/in/sachin-saxena-graphic-designer/)
