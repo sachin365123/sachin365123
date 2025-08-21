@@ -30,6 +30,8 @@
 _→ Designing and deploying ETL pipelines with ⚙️ Databricks, 🔥 PySpark, and ☁️ Azure Data Factory.
 → Building CI/CD workflows with 🚀 Azure DevOps.
 → Creating 📊 Power BI dashboards that boosted sales by 25% and improved customer retention by 15%._
+#### 
+#### 
 
 #### 🖥️ Previously worked as... **Senior Software Engineer – Data Scientist at GAVS Technology** (2022–2023)
 _→ Developed 🤖 predictive models for U.S. hospitals (📈 regression, 🔗 API integration).
