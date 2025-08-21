@@ -26,22 +26,20 @@
 
 ## 💼 **Job Experience**
 
-*  🏢 Currently working as... **Senior Analyst – Business Intelligence at Teleperformance** (2023–Present)
-_→ Designing and deploying ETL pipelines with Databricks, PySpark, and Azure Data Factory.
-→ Building CI/CD workflows with Azure DevOps.
-→ Creating Power BI dashboards that boosted sales by 25% and improved customer retention by 15%._
+🏢 Currently working as... **Senior Analyst – Business Intelligence at Teleperformance**(2023–Present)
+_→ Designing and deploying ETL pipelines with ⚙️ Databricks, 🔥 PySpark, and ☁️ Azure Data Factory.
+→ Building CI/CD workflows with 🚀 Azure DevOps.
+→ Creating 📊 Power BI dashboards that boosted sales by 25% and improved customer retention by 15%._
 
-
-*  🖥️ Previously worked as...**Senior Software Engineer – Data Scientist at GAVS Technology** (2022–2023)
-_→ Developed predictive models for U.S. hospitals (regression, API integration).
-→ Executed medical image analysis (YOLO tumor segmentation, MRI annotation).
-→ Led SQL/AWS data engineering team to optimize healthcare pipelines._
-
-
-*  🎓 Earlier role... **Assistant Professor** (2010–2022) at ABES, SRMS CET, College of Engineering Roorkee, Rajshree Institute, GRD Institute
-_→ Taught AI, ML, Data Science, and Cloud Computing.
-→ Conducted deep learning research on diabetic patients, with multiple international publications.
-→ Built medical datasets (MRI/CT scans) and proposed novel deep learning models for disease diagnosis._
+🖥️ Previously worked as... **Senior Software Engineer – Data Scientist at GAVS Technology** (2022–2023)
+_→ Developed 🤖 predictive models for U.S. hospitals (📈 regression, 🔗 API integration).
+→ Executed 🧠 medical image analysis (🎯 YOLO tumor segmentation, 🩻 MRI annotation).
+→ Led a team on 🗄️ SQL & ☁️ AWS to optimize healthcare data pipelines.
+_
+🎓 Earlier role...**Assistant Professor (2010–2022) at ABES, SRMS CET, College of Engineering Roorkee, Rajshree Institute, GRD Institute**
+_→ Taught 📘 AI, ML, Data Science, and Cloud Computing.
+→ Conducted 🔬 deep learning research on diabetic patients, publishing 📑 international papers.
+→ Built 🗂️ medical datasets (MRI/CT scans) and proposed 🏥 novel deep learning models for disease diagnosis._
 
 ---
 
