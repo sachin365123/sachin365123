@@ -1,4 +1,9 @@
-## Hi I'm Dr Sachin Saxena, a dedicated Azure Databricks developer with a deep passion for data science. 👋
+## Hi I'm Dr Sachin Saxena, a dedicated Azure Databricks developer with a deep passion for data science. Here is my career summary:
+* 🎓 PhD | Sr. Data Analyst | Ex-Sr. Software Engineer (Data Scientist)
+* 🚀 Data Engineer Trainer | Generative AI | ML Engineer
+* ⚙️ Azure | Databricks | PySpark | ADF | NLP
+* 📊 16K+ Community Reach | Trainer & Mentor
+* 💼 @Teleperformance | ex-@Gavs Technology👋
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sachin365123&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -8,7 +13,7 @@
 ---------
 ## 🧠 Programming Languages & Concepts
 
-*  🔭 I’m currently working on ... ETL, Azure Data Factory, Artificial Intelligence
+* 🔭 I’m currently working on ... ETL, Azure Data Factory, Artificial Intelligence
 * 🌱 I’m currently learning ... MLOps, Azure Foundry, Azure DevOps
 *  👯 I’m looking to collaborate on ... Machine Learning, Python, Deep Learning, Computer Vision
 *  🤔 I’m looking for help with ... advance SQL, Power BI, Statistics, advance Excel
