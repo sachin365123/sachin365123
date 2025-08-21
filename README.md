@@ -13,14 +13,33 @@
 ---------
 ## 🧠 Programming Languages & Concepts
 
-* 🔭 I’m currently working on ... ETL, Azure Data Factory, Artificial Intelligence
-* 🌱 I’m currently learning ... MLOps, Azure Foundry, Azure DevOps
+*  🔭 I’m currently working on ... ETL, Azure Data Factory, Artificial Intelligence
+*  🌱 I’m currently learning ... MLOps, Azure Foundry, Azure DevOps
 *  👯 I’m looking to collaborate on ... Machine Learning, Python, Deep Learning, Computer Vision
 *  🤔 I’m looking for help with ... advance SQL, Power BI, Statistics, advance Excel
 *  💬 Ask me about ... _Padai, Padai aur bas Padai_
 *  📫 How to reach me: +91-8909603708
 *  😄 Pronouns: Dr Sachin Saxena,  My career has been shaped by a commitment to mastering data visualization, analysis, and machine learning techniques, enabling me to create designs that are both aesthetically pleasing and insightful. 
 *  ⚡ Fun fact: ... _Bahut hi boring insaan hu, un logo ko jaldi chor deta hu, jo apne career ko lekar sincere nahi hai, ya idhar udhar jyada dhyaan rehta hai...._
+
+---
+
+## 💼 **Job Experience**
+
+🏢 Currently working as... Senior Analyst – Business Intelligence at Teleperformance (2023–Present)
+→ Designing and deploying ETL pipelines with Databricks, PySpark, and Azure Data Factory.
+→ Building CI/CD workflows with Azure DevOps.
+→ Creating Power BI dashboards that boosted sales by 25% and improved customer retention by 15%.
+
+🖥️ Previously worked as... Senior Software Engineer – Data Scientist at GAVS Technology (2022–2023)
+→ Developed predictive models for U.S. hospitals (regression, API integration).
+→ Executed medical image analysis (YOLO tumor segmentation, MRI annotation).
+→ Led SQL/AWS data engineering team to optimize healthcare pipelines.
+
+🎓 Earlier role... Assistant Professor (2010–2022) at ABES, SRMS CET, College of Engineering Roorkee, Rajshree Institute, GRD Institute
+→ Taught AI, ML, Data Science, and Cloud Computing.
+→ Conducted deep learning research on diabetic patients, with multiple international publications.
+→ Built medical datasets (MRI/CT scans) and proposed novel deep learning models for disease diagnosis.
 
 ---
 
